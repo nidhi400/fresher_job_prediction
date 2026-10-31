@@ -1,6 +1,5 @@
 # Indian Fresher Job Market Prediction
-# Dataset file: data.csv
-# Run: python fresher_hiring_stage_prediction.py
+
 
 import os
 import warnings
@@ -54,7 +53,7 @@ def make_classifier(model):
         ("preprocessing", make_preprocessor(data)),
         ("model", model)
     ])
-
+# model train
 
 def show_model_evaluation(frame):
     if "hiring_stage" not in frame.columns:
