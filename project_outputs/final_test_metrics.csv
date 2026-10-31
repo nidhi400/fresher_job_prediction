@@ -1,0 +1,2 @@
+model,accuracy,precision_weighted,recall_weighted,f1_weighted
+Logistic Regression,0.185,0.14920224411165078,0.185,0.16317773405431873

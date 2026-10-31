@@ -1,0 +1,16 @@
+Selected model: Logistic Regression
+
+                     precision    recall  f1-score   support
+
+            Applied       0.27      0.39      0.32       287
+       HR Interview       0.00      0.00      0.00        66
+              Offer       0.12      0.08      0.10       124
+  Online Assessment       0.15      0.15      0.15       143
+           Rejected       0.00      0.00      0.00        75
+        Shortlisted       0.15      0.18      0.16       174
+Technical Interview       0.09      0.11      0.10        99
+          Withdrawn       0.00      0.00      0.00        32
+
+           accuracy                           0.18      1000
+          macro avg       0.10      0.11      0.10      1000
+       weighted avg       0.15      0.18      0.16      1000
